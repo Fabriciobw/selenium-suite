@@ -1,0 +1,7 @@
+suites\SuiteTestes.class
+testes\ReservaTest.class
+core\DSL.class
+pageObjects\HomePO.class
+pageObjects\ReservaPO.class
+core\DriveFactory.class
+pageObjects\LoginPO.class
